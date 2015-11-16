@@ -1,4 +1,1 @@
-videojs_controller:
-    resource: "@ClarolineVideoJsBundle/Controller/VideoJsController.php"
-    type: annotation
-    prefix: /
+
