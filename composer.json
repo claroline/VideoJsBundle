@@ -5,8 +5,7 @@
     "type": "claroline-plugin",
     "license": "GPL-3.0+",
     "require": {
-        "php": ">=5.5",
-        "claroline/core-bundle": "~6.0"
+        "php": ">=5.5"
     },
     "autoload": {
         "psr-4": { "Claroline\\VideoJsBundle\\": "" }
